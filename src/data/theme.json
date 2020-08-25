@@ -1,14 +1,9 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "Ash's Online Portfolio",
+  "header_title": "Ash's Online Portfolio",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "a1chemylab@design.com",
   "social": [
-    {
-      "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
-    },
     {
       "channel": "instagram",
       "handle": "its.nwa",
