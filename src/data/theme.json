@@ -5,6 +5,11 @@
   "email": "a1chemylab@design.com",
   "social": [
     {
+      "channel": "Link",
+      "handle": "http://a1chemylab.com/",
+      "link_text": "HOME"
+    },
+    {
       "channel": "instagram",
       "handle": "its.nwa",
       "link_text": "ig"
