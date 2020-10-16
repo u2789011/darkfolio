@@ -1,6 +1,6 @@
 {
-  "site_name": "Ash's Online Portfolio",
-  "header_title": "Ash's Online Portfolio",
+  "site_name": "A1chemy Lab Portfolio",
+  "header_title": "A1chemy Lab Portfolio",
   "first_letter_only": true,
   "email": "a1chemylab@design.com",
   "social": [
@@ -10,9 +10,9 @@
       "link_text": "ig"
     },
     {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
+      "channel": "site",
+      "handle": "https://a1chemylab.com/",
+      "link_text": "site"
     }
   ]
 }
