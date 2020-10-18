@@ -1,8 +1,9 @@
 ---
-title: Molecular Gastronomy
-thumbnail: "../static/uploads/25c51f70439237.5ba36d85ba934.jpg"
-year: "2019"
+title: "° ＢＡＧＥＬ ＢＡＫＥＲＹ"
+thumbnail: "../static/uploads/d6636694908349-5ec4a0cc67c81.jpeg"
+year: "2020"
 categories:
+- website
 - identity
 
 ---
