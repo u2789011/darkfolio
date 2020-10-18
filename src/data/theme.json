@@ -5,6 +5,11 @@
   "email": "a1chemylab@design.com",
   "social": [
     {
+      "channel": "behance",
+      "handle": "xinyizeng",
+      "link_text": "BH"
+    },
+    {
       "channel": "a1chemylab",
       "handle": "",
       "link_text": "SITE"
