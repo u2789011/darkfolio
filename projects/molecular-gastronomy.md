@@ -1,11 +1,16 @@
 ---
 title: Molecular Gastronomy
-thumbnail: '../static/uploads/25c51f70439237.5ba36d85ba934.jpg'
-year: '2019'
+thumbnail: "../static/uploads/25c51f70439237.5ba36d85ba934.jpg"
+year: "2019"
 categories:
-  - identity
+- identity
+
 ---
+ＢＡＧＥＬ ＢＡＫＥＲＹ | 電商網站設計與開發 | 主視覺設計 | 週邊應用設計
 
-This project was created by [[explicit]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.
+ＢＡＧＥＬ ＢＡＫＥＲＹ | E-commerce website design and development | Main visual design | Peripheral application design
 
-![](/uploads/d1eb3270439237.5ba36d85ba378.jpg)![](/uploads/39fa2c70439237.5ba37480eeb2e.gif)![](/uploads/b2fa9a70439237.5ba36d85b97d2.jpg)![](/uploads/70a95970439237.5ba3cd1d868d1.gif)![](/uploads/05ef7170439237.5bae3c249353c.jpg)![](/uploads/e6509c70439237.5ba51d718b01c.jpg)![](/uploads/4decee70439237.5baced37c49e4.jpg)
+  
+Website：[https://eattttt.com/](https://eattttt.com/ "https://eattttt.com/")
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/56f4a094908349.5e8aef0f9c0f1.png)![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6d91e594908349.5e8b4ce880cb4.jpg)![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be6fff94908349.5ec4a0cc686f5.jpeg)![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6636694908349.5ec4a0cc67c81.jpeg)![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be100a94908349.5e8bf2303bd89.jpeg)
