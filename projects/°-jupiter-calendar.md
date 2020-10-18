@@ -6,8 +6,6 @@ categories:
 - graphic
 
 ---
-煉金術事務所主視覺設計 | 名片設計 | 週邊應用設計
-
 Main Visual Design of A1chemy Lab | Business Card Design | Peripheral Application Design![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/59144d97308067.5ec263e3c9779.png)
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/7d999c97308067.5ec263e3cc4a1.jpg)
