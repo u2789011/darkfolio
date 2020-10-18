@@ -1,6 +1,6 @@
 ---
 title: "° ＢＡＧＥＬ ＢＡＫＥＲＹ"
-thumbnail: "../static/uploads/d6636694908349-5ec4a0cc67c81.jpeg"
+thumbnail: "../static/uploads/be6fff94908349-5ec4a0cc686f5.jpeg"
 year: "2020"
 categories:
 - website
