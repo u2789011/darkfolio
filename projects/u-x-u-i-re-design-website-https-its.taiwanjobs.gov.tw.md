@@ -1,5 +1,5 @@
 ---
-title: "。 U X / U I - Re-design Website Taiwanjobs"
+title: "° U X / U I - Re-design Website Taiwanjobs"
 thumbnail: "../static/uploads/562d1f97167145-5ebfbaceaaa52.jpg"
 year: "2020"
 categories:
