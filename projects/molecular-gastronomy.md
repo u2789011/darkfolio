@@ -1,5 +1,5 @@
 ---
-title: "° ＢＡＧＥＬ ＢＡＫＥＲＹ"
+title: "°ＢＡＧＥＬ ＢＡＫＥＲＹ"
 thumbnail: "../static/uploads/6d91e594908349-5e8b4ce880cb4.jpg"
 year: "2020"
 categories:
