@@ -1,5 +1,5 @@
 ---
-title: "° A1CHEMY LAB"
+title: "° A 1 C H E M Y  L A B"
 thumbnail: "../static/uploads/a1chemy-lab.jpg"
 year: "2020"
 categories:
