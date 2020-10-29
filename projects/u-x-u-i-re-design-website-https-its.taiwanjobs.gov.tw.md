@@ -7,7 +7,10 @@ categories:
 - website
 
 ---
-Re-design government vocational training course website - Enterprise internal training course - teaching resources
+Re-design government vocational training course website -   
+Enterprise internal training course
+
+Teaching resources - PDF：\[[https://drive.google.com/file/d/1HY76TfCXFBrCSnAQGPZNWWFgOgI7JbM3/view?usp=sharing](https://drive.google.com/file/d/1HY76TfCXFBrCSnAQGPZNWWFgOgI7JbM3/view?usp=sharing "https://drive.google.com/file/d/1HY76TfCXFBrCSnAQGPZNWWFgOgI7JbM3/view?usp=sharing")\]
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/30594f97167145.5ebfbaceaa483.png)
 
