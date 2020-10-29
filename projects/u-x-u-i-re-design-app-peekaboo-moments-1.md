@@ -3,8 +3,8 @@ title: "° U X / U I - Re-design APP Peekaboo moments "
 thumbnail: "../static/uploads/ae89dc97377973-5ec3d2d2343c8.jpg"
 year: "2020"
 categories:
-- APP
 - UX/UI
+- APP
 
 ---
 Re-design Peekaboo moments APP -  
@@ -15,11 +15,7 @@ Teaching resources - PDF：\[[https://drive.google.com/file/d/1HY76TfCXFBrCSnAQG
 時光小屋：  
 在APP中上傳了大量寶寶的照片或影片後，時光小屋會隨機挑選過去某一天的內容，如一年前，兩年前，或者六個月前，自動生成一個動態的頁面，並通過APP通知推送給使用者，點開後可以看到寶寶之前的樣子，沉浸親子間的回憶。
 
-Current Design 目前的設計
-
-![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89089a97377973.5ec3d2d349e9c.jpg)
-
-頁面功能：
+Current Design 目前的設計![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/89089a97377973.5ec3d2d349e9c.jpg)頁面功能：
 
 1\.以寶寶的照片為主體做展示設計  
 2\.支援不同照片數量的版型設計  
@@ -87,7 +83,6 @@ Re-design Result - - -
 
 Prototype：[https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5/?fullscreen](https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5/?fullscreen "https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5/?fullscreen")
 
-  
 如此一來，APP能更有溫度的與使用者對話，  
 加上照片點開後寶寶目前年齡的顯示，  
 讓使用者能與上一層的當時年齡做對比，  
@@ -95,6 +90,4 @@ Prototype：[https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5
 「哪裡」的提示，  
 則使旅行、搬家這樣的重要回憶更鮮明。
 
-![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/af3d9b97377973.5ec3d2d349907.jpg)
-
-![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/0ce18a97377973.5ec3d2d34a64c.jpg)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/af3d9b97377973.5ec3d2d349907.jpg)![](https://mir-s3-cdn-cf.behance.net/project_modules/fs/0ce18a97377973.5ec3d2d34a64c.jpg)
