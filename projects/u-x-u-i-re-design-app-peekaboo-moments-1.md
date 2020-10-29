@@ -10,7 +10,7 @@ categories:
 Re-design Peekaboo moments APP -  
 Enterprise internal training course
 
-Teaching resources - PDF：\[[https://drive.google.com/file/d/1HY76TfCXFBrCSnAQGPZNWWFgOgI7JbM3/view?usp=sharing](https://drive.google.com/file/d/1HY76TfCXFBrCSnAQGPZNWWFgOgI7JbM3/view?usp=sharing "https://drive.google.com/file/d/1HY76TfCXFBrCSnAQGPZNWWFgOgI7JbM3/view?usp=sharing")\]
+Teaching resources - \[[PDF](https://drive.google.com/file/d/1HY76TfCXFBrCSnAQGPZNWWFgOgI7JbM3/view?usp=sharing "PDF")\]
 
 時光小屋：  
 在APP中上傳了大量寶寶的照片或影片後，時光小屋會隨機挑選過去某一天的內容，如一年前，兩年前，或者六個月前，自動生成一個動態的頁面，並通過APP通知推送給使用者，點開後可以看到寶寶之前的樣子，沉浸親子間的回憶。
@@ -39,8 +39,9 @@ UI - 使用者介面優化：
 5. 支援不同照片數量，增加半透明按鍵暗示用戶左右滑動觀看更多精選照片
 6. 支援查看當天的所有照片，點選「更多相片」可跳轉至當日相簿
 
-Re-design Result - - -  
-Prototype：[https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5/?fullscreen](https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5/?fullscreen "https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5/?fullscreen")
+Re-design Result - - -
+
+[\[Prototype\]](https://xd.adobe.com/view/6f949ea6-0042-4dd0-4d65-b066027bb583-19a5/?fullscreen "Prototype")
 
 如此一來，APP能更有溫度的與使用者對話，加上照片點開後寶寶目前年齡的顯示，讓使用者能與上一層的當時年齡做對比，自然的感受到歲月的流動，「哪裡」的提示，則使旅行、搬家這樣的重要回憶更鮮明。
 
